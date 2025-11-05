@@ -29,10 +29,10 @@ body {
 .nav a {
   margin-left: 2rem;
   text-decoration: none;
-  color: #11123d
+  color: #11123d;
   font-weight: 500;
-  transition: color 0.3s;
 }
+
 
 .nav a:hover {
   color: #fff;
